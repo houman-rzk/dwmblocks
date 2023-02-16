@@ -1,0 +1,3 @@
+# dwmblocks
+
+My dwmblocks build.
